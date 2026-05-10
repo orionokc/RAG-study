@@ -1,6 +1,6 @@
 """
 Smart Notes AI — unified app combining:
-  • 🃏 Flashcard generation (Claude API)
+  • 🃏 Flashcard generation (Ollama)
   • 🗣️  RAG Q&A on your notes (Ollama + ChromaDB + cross-encoder)
 
 Run:
